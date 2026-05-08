@@ -1,4 +1,4 @@
-# Micro-master in Technical Support / Solution Engineering Course
+# Micro-master Course on Technical Support / Solution Engineering 
 
 A GitHub-ready learning repository for beginners who want to grow into strong Technical Support, Solution Engineering, and startup-focused support automation roles.
 
