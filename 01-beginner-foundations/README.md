@@ -1,4 +1,4 @@
-# 01-beginner-foundations/README.md
+# 01-beginner-foundations
 
 # Beginner Foundations
 
