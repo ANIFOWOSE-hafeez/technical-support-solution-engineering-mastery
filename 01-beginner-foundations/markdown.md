@@ -781,7 +781,7 @@ These become critical later in:
 Continue to:
 
 ```bash
-git-and-github.md
+excel-google-sheets.md
 ```
 
 The next lesson explains:
