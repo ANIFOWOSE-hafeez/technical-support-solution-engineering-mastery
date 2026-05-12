@@ -58,88 +58,7 @@ By the end of this course, learners should be able to:
 
 ---
 
-# Repository Structure
 
-```bash
-technical-support-solution-engineering-mastery/
-├── README.md
-├── 00-course-overview/
-│   ├── README.md
-│   └── learning-path.md
-├── 01-beginner-foundations/
-│   ├── README.md
-│   ├── lessons/
-│   ├── labs/
-│   ├── quizzes/
-│   └── mini-projects/
-├── 02-core-it-support/
-│   ├── README.md
-│   ├── lessons/
-│   ├── labs/
-│   ├── quizzes/
-│   └── mini-projects/
-├── 03-automation-and-scripting/
-│   ├── README.md
-│   ├── lessons/
-│   ├── labs/
-│   ├── scripts/
-│   ├── quizzes/
-│   └── mini-projects/
-├── 04-cloud-and-integrations/
-│   ├── README.md
-│   ├── lessons/
-│   ├── labs/
-│   ├── demos/
-│   ├── quizzes/
-│   └── mini-projects/
-├── 05-solution-engineering/
-│   ├── README.md
-│   ├── lessons/
-│   ├── demos/
-│   ├── case-studies/
-│   ├── quizzes/
-│   └── mini-projects/
-├── 06-advanced-production-skills/
-│   ├── README.md
-│   ├── lessons/
-│   ├── labs/
-│   ├── architecture/
-│   ├── quizzes/
-│   └── mini-projects/
-├── 07-portfolio-projects/
-│   ├── README.md
-│   ├── ai-ticket-router/
-│   ├── endpoint-health-monitor/
-│   ├── startup-network-watchdog/
-│   ├── onboarding-offboarding-automation/
-│   ├── password-reset-portal/
-│   ├── backup-disaster-recovery-monitor/
-│   ├── asset-tracker-pro/
-│   ├── secure-remote-support-console/
-│   ├── internal-support-knowledge-base/
-│   └── security-compliance-tracker/
-├── 08-capstone/
-│   ├── README.md
-│   ├── architecture/
-│   ├── demo/
-│   └── final-project/
-├── templates/
-│   ├── README-template.md
-│   ├── case-study-template.md
-│   ├── lab-template.md
-│   ├── quiz-template.md
-│   └── project-template.md
-├── labs/
-├── quizzes/
-├── assets/
-├── docs/
-│   ├── roadmap.md
-│   ├── tools.md
-│   ├── glossary.md
-│   └── portfolio-guide.md
-├── .gitignore
-└── LICENSE
-```
 
 ---
 
@@ -196,19 +115,6 @@ Build the technical habits and concepts needed to understand support work.
 
 ---
 
-## Folder Curriculum
-
-### `lessons/`
-Concept notes and explanations.
-
-### `labs/`
-Hands-on practice exercises.
-
-### `quizzes/`
-Short knowledge checks.
-
-### `mini-projects/`
-Beginner proof-of-skill exercises.
 
 ---
 
